@@ -1,0 +1,23 @@
+{
+  "name": "backbonecabal-js-cdn",
+  "version": "0.0.0",
+  "description": "javascript cdn",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backbonecabal/js-cdn.git"
+  },
+  "keywords": [
+    "javascript",
+    "cdn"
+  ],
+  "author": "sam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/backbonecabal/js-cdn/issues"
+  },
+  "homepage": "https://github.com/backbonecabal/js-cdn#readme"
+}
